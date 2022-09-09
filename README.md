@@ -10,7 +10,7 @@ This docker add a layer with ssh server connection enabled on top of the Officia
 ```
 cd docker-oracle-ee-21c
 docker build --tag oriolrt/oracle-ee-21c .
-``
+```
 
 ## Quick Start
 
