@@ -51,7 +51,7 @@ By default, the password verification is disable(password never expired)
 Connect database with following setting:
 
 hostname: localhost  
-port: 2222  
+port: 1521  
 service name: orcl  
 
 username: system  
